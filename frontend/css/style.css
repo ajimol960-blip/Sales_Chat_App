@@ -1,0 +1,14 @@
+/* Shared page styling for login, signup, and chat. */
+body {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.card {
+    border: 0;
+    border-radius: 0.9rem;
+}
+
+.alert {
+    overflow-wrap: anywhere;
+}
