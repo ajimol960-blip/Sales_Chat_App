@@ -1,4 +1,20 @@
-# U Commerce Chatbot
+# Sales Chat App 🚀
+
+A real-time messaging and sales automation web application built to connect teams and manage product data.
+
+## 🌟 Features
+- Real-time communication for sales teams
+- PostgreSQL database integration hosted on Railway
+- Automated product data management
+
+## 🚀 Deployment Status
+- **Status:** Successfully deployed on Railway 🟢
+- **Live Application:** [View Live App](https://websales-aichatbot.up.railway.app.up.railway.app)
+
+## 🛠️ Tech Stack
+- **Backend:** Python / FastAPI / Django
+- **Database:** PostgreSQL
+- **Deployment:** Railway# U Commerce Chatbot
 
 A real-time sales chat application featuring an interactive e-commerce chatbot built with FastAPI and WebSockets.
 
