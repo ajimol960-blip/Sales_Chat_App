@@ -9,7 +9,7 @@ A real-time messaging and sales automation web application built to connect team
 
 ## 🚀 Deployment Status
 - **Status:** Successfully deployed on Railway 🟢
-- **Live Application:** [View Live App](https://websales-aichatbot.up.railway.app.up.railway.app)
+- **Live Application:** [View Live App](https://websales-aichatbot.up.railway.app)
 
 ## 🛠️ Tech Stack
 - **Backend:** Python / FastAPI / Django
